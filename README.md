@@ -45,8 +45,8 @@ Hi, I'm Mohammad Abaeiani!
 <p>
     <a href="https://github.com/MagusDev"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/MagusDev"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/MagusDev"><img alt="Csharp" src="https://img.shields.io/badge/Csharp%20-%2314354C.svg?logo=csharp&logoColor=white"></a>
-    <a href="https://github.com/MagusDev"><img alt="Cpp" src="https://img.shields.io/badge/C++%20-%2314354C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/MagusDev"><img alt="Csharp" src="https://img.shields.io/badge/Csharp%20-%23483699.svg?logo=csharp&logoColor=white"></a>
+    <a href="https://github.com/MagusDev"><img alt="Cpp" src="https://img.shields.io/badge/C++%20-%230078d7.svg?logo=c%2B%2B&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -55,15 +55,15 @@ Hi, I'm Mohammad Abaeiani!
     <a href="https://github.com/MagusDev"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/MagusDev"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/MagusDev"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/MagusDev"><img alt="React" src="https://img.shields.io/badge/React%20-%23D00000.svg?logo=React&logoColor=white"></a>
-    <a href="https://github.com/MagusDev"><img alt="Threejs" src="https://img.shields.io/badge/ThreeJs%20-%23150458.svg?logo=three.js&logoColor=white"></a>
+    <a href="https://github.com/MagusDev"><img alt="React" src="https://img.shields.io/badge/React%20-%23483699.svg?logo=React&logoColor=white"></a>
+    <a href="https://github.com/MagusDev"><img alt="Threejs" src="https://img.shields.io/badge/ThreeJs%20-%23000000.svg?logo=three.js&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="https://github.com/MagusDev"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/MagusDev"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?logo=netlify&logoColor=white"></a>
+    <a href="https://github.com/MagusDev"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white"></a>
     <a href="https://github.com/MagusDev"><img alt="SQLite" src ="https://img.shields.io/badge/Sqlite-%23FF6F00.svg?logo=sqlite&logoColor=white"></a>
 </p>
 

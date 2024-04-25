@@ -27,7 +27,7 @@ Hi, I'm Mohammad Abaeiani!
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Python, JavaScript, C#, C/C++
 🏢 I have workd as R&D Engineer and Game Developer
-🤔 I’m currently open for: remote <b>job opportunities</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: remote <b>job opportunities</b>, this is <a href="https://drive.google.com/file/d/1xnHSzLxTrgR56ZT38gDpq4Nc4lpr3E4j/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
